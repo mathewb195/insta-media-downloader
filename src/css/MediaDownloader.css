@@ -1,0 +1,16 @@
+.search-container {
+    display: flex;
+    flex: 1;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.edgehalfrounded {
+    border-radius: 50px !important;
+}
+
+h3 {
+    font-weight: bold !important;
+    padding: 20px;
+}
